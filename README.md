@@ -1,4 +1,4 @@
-# Iot Pentesting ( VAPT )
+# IoT Pentesting ( VAPT )
 
 Welcome to my IoT Pentesting (VAPT) GitHub repository, where i offer helpful information and instruments to assist security experts in conducting thorough security analyses of IoT devices and networks.
 
